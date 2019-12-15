@@ -1,0 +1,426 @@
+.bg-dark{
+    background-color: black;
+    margin: 0px;
+}
+.navbar{
+    background-color: black;
+}
+.nav-item{margin-top: 20px;}
+.navbar-nav{
+    
+    display: flex;
+    justify-content: space-between;
+    margin: 0px auto;
+    padding: 0px;
+}
+.navbar-toggler-icon{
+    float: left;
+}
+.search{float: right;
+}
+.nav-link{
+    font-size: 15px;
+    font-family: Microsoft JhengHei;
+    color: #FFF; 
+    text-decoration: none;
+    margin: 0px;
+    padding: 0px;
+}
+.d-inline-block{
+    width: 65px;
+}
+.navbar-toggler-icon{
+    width: 30px;
+}
+body{
+    margin: 0px;
+}
+.main_img{
+    width: 100%;
+}
+.course{
+    display: inline;
+    text-align: center;
+}
+.course_title{
+    margin: 0px auto;
+    margin-top: 30px;
+    width: 80px;
+    height: 32px;
+    font-size: 20px; border-bottom: 3px #F3D14C solid;padding-bottom: 2px;
+    font-family: Microsoft JhengHei;
+}
+.course_text{
+    margin: 0px auto;
+    width: 60px;
+    height: 20px;
+    font-size: 15px; border-bottom: 2px #F3D14C solid;padding-bottom: 3px;
+    font-family: Microsoft JhengHei;
+}
+.course_text2{
+    margin: 0px auto;
+    width: 105px;
+    height: 20px;
+    font-size: 15px; border-bottom: 2px #F3D14C solid;padding-bottom: 3px;
+    font-family: Microsoft JhengHei;
+}
+.course_text3{
+    margin: 0px auto;
+    width: 70px;
+    height: 20px;
+    font-size: 15px; border-bottom: 2px #F3D14C solid;padding-bottom: 3px;
+    font-family: Microsoft JhengHei;
+}
+.course_img{
+    margin-top: 30px;
+    border-radius: 10px;
+    width: 249px;
+    height: 140px;
+}
+.course_title2{
+    margin: 0px auto;
+    width: 80px;
+    height: 32px;
+    font-size: 20px; border-bottom: 3px #F3D14C solid;
+    font-family: Microsoft JhengHei;
+}
+.course_title_background{
+    text-align: center;
+    margin: 0px auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background-color: #E8E8E8;
+    width: 160px;
+    height: 40px;
+}
+.course_title3{
+    text-align: center;
+    margin: 0px;
+    font-size: 30px; 
+    font-family: Microsoft JhengHei;
+}
+.course_p1{
+    font-size: 15px; 
+    font-family: Microsoft JhengHei;
+    font-weight:bold;
+}
+.course_p2{
+    font-size: 12px; 
+    font-family: Microsoft JhengHei;
+    color: #707070;
+}
+.course_left{
+    width: 50%;
+    margin: 20px;
+    float: left;
+}
+.course_right{
+    width: 50%;
+    margin: 20px;
+    float: left;
+    align-self: center;
+}
+.course_item2{
+    display:flex;
+    text-align: center;
+}
+.footer{
+    height: 15px;
+    box-sizing: border-box;
+    width: 100%;
+    margin:0px;
+    padding:0px;
+    background-color: black;
+    position: relative;
+}
+/*M*/
+@media(min-width:768px){
+
+    .bg-dark{
+        background-color: black;
+        margin: 0px;
+    }
+    .navbar{
+        background-color: black;
+    }
+    .nav-item{margin-top: 20px;}
+    .navbar-nav{
+        
+        display: flex;
+        justify-content: space-between;
+        margin: 0px auto;
+        padding: 0px;
+    }
+    .navbar-toggler-icon{
+        float: left;
+    }
+    .search{float: right;
+    }
+    .nav-link{
+        font-size: 18px;
+        font-family: Microsoft JhengHei;
+        color: #FFF; 
+        text-decoration: none;
+        margin: 0px;
+        padding: 0px;
+    }
+    .d-inline-block{
+        width: 72px;
+    }
+    .navbar-toggler-icon{
+        width: 30px;
+    }
+    body{
+        margin: 0px;
+    }
+    .main_img{
+        width: 100%;
+    }
+    .course_item{
+        width: 50%;
+        float: left;
+    }
+    .nav_bg{
+        background-color: black;
+        margin:0px;
+        padding:0px;
+    }
+    .course{
+        display: inline;
+        text-align: center;
+    }
+    .course_title{
+        margin: 0px auto;
+        margin-top: 30px;
+        width: 80px;
+        height: 32px;
+        font-size: 20px; border-bottom: 3px #F3D14C solid;padding-bottom: 2px;
+        font-family: Microsoft JhengHei;
+    }
+    .course_text{
+        margin: 0px auto;
+        width: 60px;
+        height: 20px;
+        font-size: 15px; border-bottom: 2px #F3D14C solid;padding-bottom: 3px;
+        font-family: Microsoft JhengHei;
+    }
+    .course_text2{
+        margin: 0px auto;
+        width: 105px;
+        height: 20px;
+        font-size: 15px; border-bottom: 2px #F3D14C solid;padding-bottom: 3px;
+        font-family: Microsoft JhengHei;
+    }
+    .course_text3{
+        margin: 0px auto;
+        width: 70px;
+        height: 20px;
+        font-size: 15px; border-bottom: 2px #F3D14C solid;padding-bottom: 3px;
+        font-family: Microsoft JhengHei;
+    }
+    .course_img{
+        margin-top: 30px;
+        border-radius: 10px;
+        width: 318px;
+        height: 191px;
+    }
+    .course_title2{
+        margin: 0px auto;
+        width: 80px;
+        height: 32px;
+        font-size: 20px; border-bottom: 3px #F3D14C solid;
+        font-family: Microsoft JhengHei;
+        position: relative;
+    }
+    .course_title_background{
+        text-align: center;
+        margin: 0px auto;
+        margin-top: 550px;
+        margin-bottom: 30px;
+        background-color: #E8E8E8;
+        width: 160px;
+        height: 40px;
+    }
+    .course_title3{
+        text-align: center;
+        margin: 0px auto;
+        font-size: 30px; 
+        font-family: Microsoft JhengHei;
+    }
+    .course_img2{
+        margin-bottom: -20px;
+    }
+    .course_p1{
+        font-size: 15px; 
+        font-family: Microsoft JhengHei;
+        font-weight:bold;
+    }
+    .course_p2{
+        font-size: 12px; 
+        font-family: Microsoft JhengHei;
+        color: #707070;
+    }
+    .course_item2{
+        margin: 0px;
+        background-color: #FFFFFF;
+        width: 20%;
+        display: inline;
+        float: left;
+    }
+
+    .footer{
+        height: 15px;
+        box-sizing: border-box;
+        width: 100%;
+        margin:0px auto;
+        padding:0px;
+        background-color: black;
+        position: relative;
+        margin-top: 200px;
+    }
+}
+/*L*/
+@media(min-width:1200px){
+    .bg-dark{
+        background-color: black;
+        margin: 0px;
+    }
+    .navbar{
+        background-color: black;
+    }
+    .nav-item{margin-top: 20px;}
+    .navbar-nav{
+        
+        display: flex;
+        justify-content: space-between;
+        margin: 0px auto;
+        padding: 0px;
+    }
+    .navbar-toggler-icon{
+        float: left;
+    }
+    .search{float: right;
+    }
+    .nav-link{
+        font-size: 22px;
+        font-family: Microsoft JhengHei;
+        color: #FFF; 
+        text-decoration: none;
+        margin: 0px;
+        padding: 0px;
+    }
+    .d-inline-block{
+        width: 80px;
+    }
+    .navbar-toggler-icon{
+        width: 30px;
+    }
+    body{
+        margin: 0px;
+    }
+    .main_img{
+        width: 100%;
+    }
+    .course_item{
+        width: 50%;
+        float: left;
+    }
+    .nav_bg{
+        background-color: black;
+        margin:0px;
+        padding:0px;
+    }
+    .course{
+        display: inline;
+        text-align: center;
+    }
+    .course_title{
+        margin: 0px auto;
+        margin-top: 30px;
+        width: 80px;
+        height: 32px;
+        font-size: 20px; border-bottom: 3px #F3D14C solid;padding-bottom: 2px;
+        font-family: Microsoft JhengHei;
+    }
+    .course_text{
+        margin: 0px auto;
+        width: 60px;
+        height: 20px;
+        font-size: 15px; border-bottom: 2px #F3D14C solid;padding-bottom: 3px;
+        font-family: Microsoft JhengHei;
+    }
+    .course_text2{
+        margin: 0px auto;
+        width: 105px;
+        height: 20px;
+        font-size: 15px; border-bottom: 2px #F3D14C solid;padding-bottom: 3px;
+        font-family: Microsoft JhengHei;
+    }
+    .course_text3{
+        margin: 0px auto;
+        width: 70px;
+        height: 20px;
+        font-size: 15px; border-bottom: 2px #F3D14C solid;padding-bottom: 3px;
+        font-family: Microsoft JhengHei;
+    }
+    .course_img{
+        margin-top: 30px;
+        border-radius: 0px;
+        width: 566px;
+        height: 316px;
+    }
+    .course_title2{
+        margin: 0px auto;
+        width: 80px;
+        height: 32px;
+        font-size: 20px; border-bottom: 3px #F3D14C solid;
+        font-family: Microsoft JhengHei;
+        position: relative;
+    }
+    .course_title_background{
+        text-align: center;
+        margin: 0px auto;
+        margin-top: 800px;
+        margin-bottom: 30px;
+        background-color: #E8E8E8;
+        width: 160px;
+        height: 40px;
+    }
+    .course_title3{
+        text-align: center;
+        margin: 0px auto;
+        font-size: 30px; 
+        font-family: Microsoft JhengHei;
+    }
+    .course_img2{
+        margin-bottom: -20px;
+    }
+    .course_p1{
+        font-size: 15px; 
+        font-family: Microsoft JhengHei;
+        font-weight:bold;
+    }
+    .course_p2{
+        font-size: 12px; 
+        font-family: Microsoft JhengHei;
+        color: #707070;
+    }
+    .course_item2{
+        margin: 0px;
+        background-color: #FFFFFF;
+        width: 20%;
+        display: inline;
+        float: left;
+    }
+
+    .footer{
+        height: 15px;
+        box-sizing: border-box;
+        width: 100%;
+        margin:0px auto;
+        padding:0px;
+        background-color: black;
+        position: relative;
+        margin-top: 200px;
+    }
+}
